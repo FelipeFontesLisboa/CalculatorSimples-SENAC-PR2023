@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-image: url(./assets/img/matematicas-recurso-bbva-1920x918-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+button{
+    cursor: pointer;
+}
+.painel {
+    /* background-image: url(./assets/img/matemáticas-obligatorias.jpg); */
+    background-color: rgba(240, 248, 255, 0.534);
+    box-shadow: 2px 2px 100px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid 1px black;
+    width: 900px;
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 80px;
+    color: ;
+    background-color: rgba(204, 247, 11, 0.836);
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px;
+}
+
+p {
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.829);
+}
+.opera {
+    font-size: 22px;
+}
+
+i {
+    color: rgb(0, 0, 0);
+}
+
+.botao1 {
+    background-color: rgba(0, 0, 255, 0.596);
+    width: 40px;
+    color: rgba(255, 255, 255, 0.801);
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.botao2 {
+    background-color: rgba(9, 255, 0, 0.63);
+    width: 40px;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.botao3 {
+    background-color: rgba(255, 196, 0, 0.726);
+    width: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.botao4 {
+    color: rgb(255, 0, 0);
+    width: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.botao {
+    background-color: rgba(0, 0, 0, 0.445);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.botao6 {
+    background-color: rgb(255, 0, 0);
+    width: 150px;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+}
+
+.button-container {
+    padding: 15px;
+
+}
+
+input {
+    outline:none;
+    padding: 5px;
+    width: 35%;
+    font-weight: bold;
+    text-align: center;
+    
+}
