@@ -1,2 +1,2 @@
 - Jogo da Velha Projeto De Apredizado SENAC-PR/2023 
-- https://felipefonteslisboa.github.io/CalculatorSimples/
+- https://felipefonteslisboa.github.io/CalculatorSimples-SENAC-PR2023/
